@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DIARY</string>
+    <string name="register_button">REGISTER</string>
+    <string name="login_button">LOG IN</string>
+    <string name="password_hint">PASSWORD</string>
+    <string name="confirm_password_hint">CONFIRM PASSWORD</string>
+    <string name="email_hint">EMAIL</string>
+    <string name="signup_button">SIGN UP</string>
+</resources>

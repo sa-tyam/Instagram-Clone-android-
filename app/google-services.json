@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477307481325",
+    "firebase_url": "https://diary-cb1e0.firebaseio.com",
+    "project_id": "diary-cb1e0",
+    "storage_bucket": "diary-cb1e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477307481325:android:b2360ea8703bb32cacb0e4",
+        "android_client_info": {
+          "package_name": "application.greyhats.diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477307481325-ahq825n6a6f6u9s3qgt5um6e06nnskpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJrvdYQ1nETt0BcX_zzSFNX1bWMy59Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477307481325-ahq825n6a6f6u9s3qgt5um6e06nnskpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
